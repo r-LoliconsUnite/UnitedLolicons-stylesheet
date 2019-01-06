@@ -1,5 +1,5 @@
 # [r/UnitedLolicons](https://www.reddit.com/r/UnitedLolicons/) stylesheet
-## r/loliconsunite was banned; now used by r/unitedlolicons branch
+## r/loliconsunite was banned; use r/unitedlolicons branch now
 
 - For testing purposes (might be private sometimes): [r/LoliTest](https://www.reddit.com/r/LoliTest/)
     - This code may appear in first r/LoliTest, then r/UnitedLolicons
