@@ -1,12 +1,9 @@
 /*--------------------------------------------------------------------------
 		
-		Lolicons Unite subreddit theme
-		For r/loliconsunite
+		UnitedLolicons subreddit theme
+		For r/UnitedLolicons
 		Maintained by u/twenty_characters_su
 		
-		Free and open source in github 
-		Changelog in github
-		https://github.com/r-LoliconsUnite/LoliconsUnite-stylesheet
 		
 		
 		Minimaluminiumalism Base Theme
@@ -2766,7 +2763,7 @@ read message by Hakan Yalcin from the Noun Project
 
 .titlebox h1.redditname a::before {
     font-size: 20px;
-    content:"Lolicons Unite!";
+    content:"United Lolicons";
 }
 /*END SUBREDDIT NAME*/
 
