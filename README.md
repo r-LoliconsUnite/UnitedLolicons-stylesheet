@@ -1,10 +1,8 @@
-# [r/LoliconsUnite](https://www.reddit.com/r/loliconsunite/) stylesheet
+# [r/UnitedLolicons](https://www.reddit.com/r/UnitedLolicons/) stylesheet
+## r/loliconsunite was banned; use r/unitedlolicons branch now
 
 - For testing purposes (might be private sometimes): [r/LoliTest](https://www.reddit.com/r/LoliTest/)
-    - This code may appear in first r/LoliTest, then r/LoliconsUnite
-- Discord (use link in subreddit for most updated one): https://discord.gg/4SAf2xY
-
-- I have only basic knowledge of css and github. Please help us review the code!
+    - This code may appear in first r/LoliTest, then r/UnitedLolicons
 - Contact us using modmail or via discord
 
 # Major changelog:
